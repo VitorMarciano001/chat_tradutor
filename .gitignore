@@ -42,6 +42,5 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 
-# ChatGPT Api key 
-chatgptkey.txt
-lib/provider/generate_response.dart
+# Api keys
+*.env

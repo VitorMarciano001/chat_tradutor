@@ -1,4 +1,4 @@
-import 'package:ai_app_conversations/util/get_message.dart';
+import 'package:ai_app_conversations/provider/get_message.dart';
 import 'package:chat_bubbles/bubbles/bubble_normal.dart';
 import 'package:flutter/material.dart';
 
